@@ -1,0 +1,10 @@
+OCI-CyberShield-Pro/
+├── func.py                  # Main security engine
+├── requirements.txt         # Dependencies
+├── oci_config               # OCI credentials (example)
+├── deploy.sh                # One-click deployment
+├── terraform/
+│   ├── main.tf
+│   ├── variables.tf
+│   └── outputs.tf
+└── README.md
